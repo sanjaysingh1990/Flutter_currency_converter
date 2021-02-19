@@ -1,6 +1,6 @@
 # Fluter Currency Converter
 
-# Fruits App UI - (Flutter UI Challenge)
+# App UI - (Flutter UI Challenge)
 ### Dependencies
  - dio: 
  - provider: 
