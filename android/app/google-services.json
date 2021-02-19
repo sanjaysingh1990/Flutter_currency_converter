@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "5257727882",
+    "firebase_url": "https://chat-d1108.firebaseio.com",
+    "project_id": "chat-d1108",
+    "storage_bucket": "chat-d1108.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5257727882:android:572c868fb956e523438273",
+        "android_client_info": {
+          "package_name": "com.app.flutter_sivisoft_cc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5257727882-fkofao8ecj0n21ttvmut05r4a381k7hh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.flutter_sivisoft_cc",
+            "certificate_hash": "4ead030b52f9565833e3ac914ee237c648865293"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAVd0D38Hb1-yTPLE2ReU-PUXXVxkOe8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5257727882:android:b257be4e23abc182438273",
+        "android_client_info": {
+          "package_name": "com.madwall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5257727882-v2dt164tgo47hnhcp338m8023esm3k4b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.madwall",
+            "certificate_hash": "19f20cdecbb9ac099f56ea4d96244e74fa82e433"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAVd0D38Hb1-yTPLE2ReU-PUXXVxkOe8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5257727882:android:af7fcbe9669875c0",
+        "android_client_info": {
+          "package_name": "com.msw.chatfish"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAVd0D38Hb1-yTPLE2ReU-PUXXVxkOe8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
