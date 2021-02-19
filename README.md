@@ -22,7 +22,7 @@
 ## Getting Started
 **1 Clone repo**
 ```
-https://github.com/SaanPrasanna/Flutter-WhatsApp-UI-Clone.git
+https://github.com/sanjaysingh1990/Flutter_currency_converter.git
 ```
 **2 Get Packages**
 ```
