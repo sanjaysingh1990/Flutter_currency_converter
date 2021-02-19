@@ -12,8 +12,12 @@
 
 ###  ❤ Some Screenshots of this UI.	
 
-![alt text](https://github.com/SaanPrasanna/Flutter-Fruit-App-UI/blob/main/assets/1.png?raw=true)
-![alt text](https://github.com/SaanPrasanna/Flutter-Fruit-App-UI/blob/main/assets/2.png?raw=true)
+![alt text](https://github.com/sanjaysingh1990/Flutter_currency_converter/blob/master/screenshots/screenshot1.jpg?raw=true)
+![alt text](https://github.com/sanjaysingh1990/Flutter_currency_converter/blob/master/screenshots/screenshot2.jpg?raw=true)
+![alt text](https://github.com/sanjaysingh1990/Flutter_currency_converter/blob/master/screenshots/screenshot3.jpg?raw=true)
+![alt text](https://github.com/sanjaysingh1990/Flutter_currency_converter/blob/master/screenshots/screenshot4.jpg?raw=true)
+![alt text](https://github.com/sanjaysingh1990/Flutter_currency_converter/blob/master/screenshots/screenshot5.jpg?raw=true)
+![alt text](https://github.com/sanjaysingh1990/Flutter_currency_converter/blob/master/screenshots/screenshot6.jpg?raw=true)
 
 ### Find me
 > On Linked In [Sanjay Singh Bisht](https://www.linkedin.com/in/sanjay-singh-bisht-a036772b/).
