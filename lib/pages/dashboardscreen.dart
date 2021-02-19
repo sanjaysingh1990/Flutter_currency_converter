@@ -227,6 +227,7 @@ class _DashBoardScreenState extends State<DashBoardScreen> {
               print("new base $value");
               if (value != null) {
                 _baseCurrency = value;
+                if(_baseCurrency.isEmpty)_baseCurrency="EUR";
                 _getData();
               }
             },
