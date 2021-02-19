@@ -1,16 +1,44 @@
-# flutter_sivisoft_cc
+# Fluter Currency Converter
 
-A new Flutter application.
+# Fruits App UI - (Flutter UI Challenge)
+### Dependencies
+ - dio: 
+ - provider: 
+ - firebase_core: 
+ - firebase_auth: 
+ - google_sign_in: 
+
+### ❤ Using Provider State Management
+
+###  ❤ Some Screenshots of this UI.	
+
+![alt text](https://github.com/SaanPrasanna/Flutter-Fruit-App-UI/blob/main/assets/1.png?raw=true)
+![alt text](https://github.com/SaanPrasanna/Flutter-Fruit-App-UI/blob/main/assets/2.png?raw=true)
+
+### Find me
+> On Linked In [Sanjay Singh Bisht](https://www.linkedin.com/in/sanjay-singh-bisht-a036772b/).
+> On Twitter [Sanjay Singh Bisht](https://twitter.com/sanju_bisht1990)
 
 ## Getting Started
+**1 Clone repo**
+```
+https://github.com/sanjaysingh1990/Flutter_currency_converter.git
+```
+**2 Get Packages**
+```
+flutter pub get
+```
+**3 Run Project**
+```
+flutter run
+```
 
-This project is a starting point for a Flutter application.
+## Contributing
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
