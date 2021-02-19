@@ -8,7 +8,7 @@
  - firebase_auth: 
  - google_sign_in: 
 
-### ❤ Using clean architecture
+### ❤ Using Provider State Management
 
 ###  ❤ Some Screenshots of this UI.	
 
@@ -16,8 +16,8 @@
 ![alt text](https://github.com/SaanPrasanna/Flutter-Fruit-App-UI/blob/main/assets/2.png?raw=true)
 
 ### Find me
-> On Facebook [Sandun Prasanna](https://www.facebook.com/R00T.G3N3S1S/).
-> On Twitter [Sandun Prasanna](https://www.twitter.com/saanPrasanna)
+> On Linked In [Sanjay Singh Bisht](https://www.linkedin.com/in/sanjay-singh-bisht-a036772b/).
+> On Twitter [Sanjay Singh Bisht](https://twitter.com/sanju_bisht1990)
 
 ## Getting Started
 **1 Clone repo**
