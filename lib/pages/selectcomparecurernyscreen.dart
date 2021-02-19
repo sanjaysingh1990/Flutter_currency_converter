@@ -55,6 +55,7 @@ class _SelectCompareCurrencyBaseScreenState
     final routes =
         ModalRoute.of(context).settings.arguments as Map<String, dynamic>;
     _baseCurrency = routes['base'];
+    if(_baseCurrency.isEmpty)_baseCurrency="EUR";
     _isFromHome = routes['fromHome'] ?? false;
     return Scaffold(
       backgroundColor: AppColors.bluePrimary,

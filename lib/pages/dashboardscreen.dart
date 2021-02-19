@@ -40,7 +40,8 @@ class _DashBoardScreenState extends State<DashBoardScreen> {
     await new Future.delayed(new Duration(milliseconds: 500));
     final routes =
         ModalRoute.of(context).settings.arguments as Map<String, dynamic>;
-    _baseCurrency = routes['base'] ?? "";
+    _baseCurrency = routes['base'] ?? "EUR";
+    if(_baseCurrency.isEmpty)_baseCurrency="EUR";
     _toCurrencyList = routes['totype'];
     if (_baseCurrency.isEmpty) {
       _baseCurrency = "INR";
