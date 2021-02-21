@@ -2,7 +2,7 @@ class ResString {
   var data ={
 
     'done': 'Done',
-    'company_name':'SIVISOFT',
+    'company_name':'LOGIC BOLTS',
     'app_name':'CURRENCY CONVERTER',
     'currency_code':'Currency code (INR, USD, EUR, ...)',
     'select_base_currency':'Select your base',
